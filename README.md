@@ -1,4 +1,4 @@
-# SEI-Project-2 Album Review App
+# SEI Project 2 Album Review App
 
 ![]()
 
