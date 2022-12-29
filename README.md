@@ -6,7 +6,7 @@
 
 'Album Review App' is a full-stack web app where users can add, review and browse music albums. I built it with Henry (Harry) Philpotts in a week for the General Assembly Software Engineering Immersive course second project. The app was created with Express JS framework, Node JS and MongoDB then deployed using Heroku and MongoDB Atlas.
 
-[Visit the website here](https://albumsei66.herokuapp.com/auth/landing)
+[Visit the website here](https://albumreviewapp.cyclic.app/review/index)
 
 I worked closely with Harry on both back-end and front-end implementing the MVC architecture, although my main areas of focus for the project were authentication functionalities, EJS layouts, image upload and album cards. 
 
